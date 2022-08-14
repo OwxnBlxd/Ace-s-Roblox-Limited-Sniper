@@ -3,7 +3,7 @@
 # Preview Image
 ![image](https://user-images.githubusercontent.com/53382312/184518037-9d9a4d0f-66a9-4571-87d4-a3d98db77975.png)
 # Information
-Originally, this project took many weeks of trial and error to ensure that we would release the best version of this sniper. The sniper is currently one of the best free limited snipers out there, you won't find any other bot like this - the bot is even better than some of the snipers that cost money. This project was made for fun and to test my coding skills and is being given away to help people understand how limited sniping works, and how you can create your own or you can use it just for your own personal use.
+Originally, this project took many weeks of trial and error to ensure that we would release the best version of this sniper. The sniper is currently one of the best free limited snipers out there, you won't find any other bot like this - the bot is even better than some of the snipers that cost money. This project was made for fun and to test my coding skills and is being given away to help people understand how limited sniping works, and how you can create your own or you can use it just for your own personal use. The way the sniper works is by purchasing limited items for the range you set on the sniper. The following images are examples of use of the sniper, we believe these are sold for 1 robux to lower the RAP of the item.
 
 # Featured Snipes
 ![image](https://user-images.githubusercontent.com/53382312/184518298-c8bf02d8-2541-4ca0-95ce-041f16333955.png)
