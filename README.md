@@ -12,6 +12,7 @@ Originally, this project took many weeks of trial and error to ensure that we wo
 
 # How to install
 1] Download the main 'Ace Limited Sniper' file to your desktop, you may have to disable your antivirus as it may be flagged as unsafe.
+
 2] Proceed to run the file and it will present you with the panel where you can add what items you would like the bot to target, discord webhooks and more.
 
 If you need any additional support, feel free to join the discord below:
