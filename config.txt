@@ -1,0 +1,42 @@
+;Hours
+PartnerCoolDown = 2
+
+;Which trades are sent first
+; 1 - Highest Value
+; 2 - Highest Rap
+; 3 - Highest Demand
+
+TradePriority = 1
+
+
+[Scoring]
+
+MinimumScoreIncrease = 0
+
+CheckDemand = true
+CheckIfRare = true
+CheckIncrease = true
+CheckBelowRap = true
+
+;Amount of points given
+RareTrue = 1
+DemandTrue = 1
+IsGoingToIncreaseTrue = 1
+BelowRapTrue = 1
+
+;Amount of points subtracted
+RareFalse = -1 
+DemandFalse = -1
+IsGoingToIncreaseFalse = -1 
+BelowRapFalse = -1
+
+;The amount of rap it needs to go up ina day 
+IncreaseRap = 500
+;Average daily sales 
+MinimumDailySales = 3
+
+
+[Debug]
+
+PrintSuccessFulTrades = true
+DontSendTrades = false 
